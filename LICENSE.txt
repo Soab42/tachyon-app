@@ -1,0 +1,22 @@
+TACHYON
+Copyright (c) 2026 Soab42. All rights reserved.
+
+TACHYON is free to download and use, at home or at work.
+
+You may:
+  - install and run it on any number of your own computers;
+  - share the unmodified release archive with others, free of charge.
+
+You may not:
+  - sell it, or include it in a product you sell;
+  - modify it, or distribute modified copies;
+  - remove this notice or the third-party notices.
+
+TACHYON is provided "as is", without warranty of any kind, express or implied. In no event
+shall the author be liable for any claim, damages or other liability arising from its use.
+
+TACHYON includes third-party software, fonts and text under their own licences. See
+THIRD-PARTY.txt. Nothing here limits the rights those licences give you.
+
+TACHYON is an independent project. Any similarity of a clock face or theme to something in a
+film or another product is homage only and implies no affiliation or endorsement.
