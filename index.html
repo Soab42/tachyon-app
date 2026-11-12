@@ -155,7 +155,7 @@ footer p{max-width:720px}
   <div class="row">
     <div class="pic cut"><img src="img/console.webp" alt="The TACHYON console showing a flip clock, calendar, next alarm and world times" loading="lazy" width="1360" height="860"></div>
     <div><div class="eyebrow">Console</div><h2>A real clock app, not just a pretty one.</h2>
-      <ul class="ticks"><li>Alarms with snooze, seven tones and wake missions you have to solve</li><li>Centisecond stopwatch with laps, and any number of timers</li><li>Pomodoro focus sessions and a sleep-cycle planner</li><li>World clocks that follow daylight saving, plus a meeting planner</li><li>Moon phase, sunrise and sunset, even Mars time</li></ul></div>
+      <ul class="ticks"><li>Alarms with snooze, seven tones and wake missions you have to solve</li><li>Centisecond stopwatch with laps, and any number of timers</li><li>Pomodoro focus sessions and a sleep-cycle planner</li><li>World clocks with daylight saving and each city's public holidays</li><li>Moon phase, sunrise and sunset, even Mars time</li></ul></div>
   </div>
   <div class="row flip">
     <div class="pic cut"><img src="img/widgets.webp" alt="TACHYON desktop widgets: calendar, world clocks, CPU, memory and more" loading="lazy" width="1504" height="745"></div>
@@ -196,7 +196,7 @@ footer p{max-width:720px}
 
 <section id="faq"><div class="wrap" style="max-width:820px">
   <div class="head"><div class="eyebrow">Questions</div><h2>Good to know</h2></div>
-  <details><summary>What does it send over the internet?</summary><p>No analytics and no account. It asks GitHub for new versions every 6 hours, which you can turn off in Settings. The weather widget sends your location to Open-Meteo, and the optional "Detect via internet" location button calls ipinfo.io.</p></details>
+  <details><summary>What does it send over the internet?</summary><p>No analytics and no account. It asks GitHub for new versions every 6 hours, which you can turn off in Settings. The weather widget sends your location to Open-Meteo, world clocks fetch the public holiday calendar of each country you add from Google once a week, and the optional "Detect via internet" location button calls ipinfo.io.</p></details>
   <details><summary>What runs in the background?</summary><p>A small service handles alarms, starts the screensaver when you're idle and checks for updates. It starts when you log in. The installer starts it right away, so the screensaver can appear after 4 idle minutes. You can change or disable that in the console.</p></details>
   <details><summary>How do updates work?</summary><p>When a new version is out you get a popup with what changed and three choices: Update now, Later or Skip this version. Each release is cryptographically signed, and nothing is replaced until the signature, checksum and a test run all pass.</p></details>
   <details><summary>Is it available for macOS or Windows?</summary><p>Not at the moment. TACHYON is Linux only.</p></details>
